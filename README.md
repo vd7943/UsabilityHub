@@ -9,10 +9,11 @@ Integrated FontAwesome icons and Google Fonts for enhanced visual appeal and fun
 Ensured cross-browser compatibility and adherence to web standards.
 
 Technologies Used:
-HTML5
-CSS3 (including Flexbox, Grid, Media Queries)
-FontAwesome
-Google Fonts (Poppins, Roboto)
+HTML5,
+CSS3 (including Flexbox, Grid, Media Queries),
+FontAwesome,
+Google Fonts (Poppins, Roboto) and
+JavaScript
 
 Achievements:
 Successfully delivered a responsive and engaging user interface, leading to improved user experience.
